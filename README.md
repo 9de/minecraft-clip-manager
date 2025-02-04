@@ -25,7 +25,7 @@ An automated tool for processing, trimming, and sharing Minecraft gameplay recor
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/minecraft-clip-manager.git
+git clone https://github.com/9de/minecraft-clip-manager.git
 cd minecraft-clip-manager
 ```
 
